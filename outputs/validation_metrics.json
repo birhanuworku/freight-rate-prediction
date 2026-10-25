@@ -1,0 +1,11 @@
+{
+  "mae": 108.0558572912076,
+  "rmse": 647.1425662157161,
+  "r2": 0.8207591787770225,
+  "mean_absolute_percentage_error": 0.055832311042361096,
+  "split_method": "chronological holdout: latest calendar month",
+  "development_rows": 43147,
+  "holdout_rows": 4853,
+  "holdout_month": "2025-10",
+  "best_iteration": 163
+}
